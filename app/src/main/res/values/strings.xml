@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1922500005</string>
+    <string name="kalkulator_grade_isb_atmaluhur_pangkalpinang">KALKULATOR GRADE ISB ATMALUHUR PANGKALPINANG</string>
+    <string name="nilai_absensi_0_100">Nilai Absensi (0-100)</string>
+    <string name="hasil_nilai_akhir">HASIL NILAI AKHIR</string>
+    <string name="button">Button</string>
+    <string name="design_by_rizky_pratama">Design By Rizky Pratama</string>
+    <string name="uas">UAS</string>
+    <string name="uts">UTS</string>
+    <string name="tugas">Tugas</string>
+    <string name="absensi">Absensi</string>
+    <string name="nilai_tugas_0_100">Nilai Tugas (0-100)</string>
+    <string name="nilai_uts_0_100">Nilai UTS (0-100)</string>
+    <string name="nilai_uas_0_100">Nilai UAS (0-100)</string>
+</resources>
